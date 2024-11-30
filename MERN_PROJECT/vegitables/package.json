@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.1",
     "nodemailer": "^6.7.4",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "restify-errors": "^8.0.2",
     "routes": "^2.1.0",
     "save": "^2.5.0",
